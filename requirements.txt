@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+matplotlib
+conda install -c trentonoliphant datetime
+conda install -c conda-forge fbprophet
