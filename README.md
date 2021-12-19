@@ -20,6 +20,7 @@
 * [Dataset used](#data)
 * [Run Locally](#run)
 * [Exploring the Data](#viz)
+   - [Dashboard](#dashboard)
    - [Matplotlib](#matplotlib)
    - [Seaborn](#seaborn)
 * [solving the task](#fe)
@@ -111,6 +112,15 @@ Copy or move this `requirements.txt` to another environment and install with it.
 ## Exploring the Data:<a name="viz"></a>
 
 I have used pandas, matplotlib and seaborn visualization skills.
+
+**Dashboard:**<a name="dashboard"></a>
+---------
+
+![SALES DEPT  DASHBOARD](https://user-images.githubusercontent.com/86251750/146665681-7a6b3832-8829-431a-bdd8-7bcd195c2b61.png)
+
+
+you can see the dashboard at [tableau](https://public.tableau.com/app/profile/pradeep7347/viz/SALESDEPARTMENTDASHBOARD/SALESDEPT_DASHBOARD)
+
 
 **Matplotlib:**<a name="matplotlib"></a>
 --------
